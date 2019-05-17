@@ -6,11 +6,15 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
-    currentNameNav: ""
+    currentNameNav: "",
+    loading: false
   },
   mutations: {
     setCurrentNameNav(state, name) {
       state.currentNameNav = name;
+    },
+    setLoading(state, loading) {
+      state.loading = loading;
     }
   },
   actions: {},

@@ -1,9 +1,11 @@
 export default [
-  //   {
-  //     path: "/",
-  //     name: "home",
-  //     component: () => import(/* webpackChunkName: "home" */ "./views/Home.vue")
-  //   },
+  {
+    path: "/top-20-companies",
+    name: "top",
+    meta: { title: "Obras" },
+    component: () =>
+      import(/* webpackChunkName: "home" */ "./views/Top20Companies.vue")
+  },
   {
     path: "/contracts/:departament",
     name: "contracts",

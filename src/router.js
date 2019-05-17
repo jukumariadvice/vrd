@@ -20,8 +20,9 @@ router.beforeEach((to, from, next) => {
         .toUpperCase();
       next();
     }
-  } else if (to.name === "home") {
-    store.state.currentNameNav = to.name.replace("-", " ").toUpperCase();
+  } else if (to.name === "top") {
+    //store.state.currentNameNav = to.name.replace("-", " ").toUpperCase();
+    store.state.currentNameNav = to.meta.title.replace("-", " ").toUpperCase();
     next();
   } else {
     next();
