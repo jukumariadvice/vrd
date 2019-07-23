@@ -9,6 +9,9 @@
       <span class="badge badge-primary mr-1">Febrero</span>
       <span class="badge badge-primary">Marzo</span>
       <h4 class="mt-md-1">{{totalCost | currency("Bs. ")}}</h4>
+
+      <contracts/>
+
       <b-row class="mt-md-1">
         <b-col cols="12" md="6" class="text-center">
           <chartjs-polar-area
@@ -39,11 +42,15 @@
 <script>
 import { mapGetters, mapState, mapActions } from "vuex";
 import Vue2Filters from "vue2-filters";
+import Contracts from "@/components/Contracts";
 export default {
   mixins: [Vue2Filters.mixin],
   name: "Top20Companies",
   mounted() {
     this.fetchContracts();
+  },
+  components: {
+    Contracts
   },
   data() {
     return {
