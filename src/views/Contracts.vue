@@ -1,6 +1,30 @@
 <template>
   <div v-if="!loading">
     <b-row class="about">
+      <b-col cols="12" md="6" class="text-center">
+        <span
+          class="badge badge-primary"
+          variant="primary"
+          :key="contract[0].contract_id"
+          v-for="(contract,name,index) in contractsGroupByCompany"
+          v-text="contract[0].company_name"
+          v-bind:style="{ backgroundColor: contractsGroupByCompanyOnlyColors[index]}"
+        ></span>
+      </b-col>
+
+      <b-col cols="12" md="6" class="text-center">
+        <graph-treemap
+          :width="800"
+          :height="800"
+          :text-align="'right'"
+          :text-vertical-align="'bottom'"
+          :colors="contractsGroupByCompanyOnlyColors"
+          :values="contractsGroupByCompany|treemap"
+        >
+          <!--<note :text="'Treemap Chart'" :align="'left'"></note>-->
+          <tooltip :position="'top'"></tooltip>
+        </graph-treemap>
+      </b-col>
       <b-col cols="12" md="7" class="text-center">
         <GmapMap
           :center="center"
@@ -214,7 +238,38 @@ export default {
           display: true,
           position: "bottom"
         }
-      }
+      },
+      values: [
+        ["0", "Apples", -1],
+        ["0.0", "Anne", 5],
+        ["0.1", "Rick", 3],
+        ["0.2", "Peter", 4],
+        ["1", "Bananas", -1],
+        ["1.0", "Anne", 4],
+        ["1.1", "Rick", 10],
+        ["1.2", "Peter", 1],
+        ["2", "Oranges", -1],
+        ["2.0", "Anne", 1],
+        ["2.1", "Rick", 3],
+        ["2.2", "Peter", 3],
+        ["2.3", "Jane", 3],
+        ["3", "Curtain", -1],
+        ["3.0", "Anne", 1],
+        ["3.1", "Rick", 3],
+        ["3.2", "Peter", 3],
+        ["3.3", "Jane", 3],
+        ["4", "Cake", -1],
+        ["4.0", "Mary", 5],
+        ["5", "Susanne", 2]
+      ],
+      colorsTree: [
+        "#EC2500",
+        "#ECE100",
+        "#EC9800",
+        "#9EDE00",
+        "#FF0000",
+        "#00FF00"
+      ]
     };
   },
   methods: {
@@ -237,7 +292,9 @@ export default {
       "sumByAmount",
       "countContracts",
       "onlyLabels",
-      "onlySubtotal"
+      "onlySubtotal",
+      "contractsGroupByCompany",
+      "contractsGroupByCompanyOnlyColors"
     ])
   }
 };

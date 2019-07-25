@@ -1,3 +1,19 @@
+export function contractsGroupByCompany(state) {
+  return groupByContractsCompanyName(state.contracts);
+}
+
+export function contractsGroupByCompanyOnlyColors(state) {
+  let colors = [];
+  for (
+    let i = 0;
+    i <= Object.keys(groupByContractsCompanyName(state.contracts)).length;
+    i++
+  ) {
+    colors.push(getRandomColor() + "5A");
+  }
+  return colors;
+}
+
 export function onlyLabels(state) {
   return groupByCompanyNames(state.contracts)
     .reduce((array, contract) => [...array, contract.companyName], [])
@@ -43,4 +59,18 @@ function groupByCompanyNames(contracts) {
     .sortBy("subtotal")
     .value()
     .reverse();
+}
+
+function groupByContractsCompanyName(contracts) {
+  return _.chain(contracts)
+    .groupBy("company_name")
+    .value();
+}
+
+function getRandomColor() {
+  function c() {
+    var hex = Math.floor(Math.random() * 256).toString(16);
+    return ("0" + String(hex)).substr(-2); // pad with zero
+  }
+  return "#" + c() + c() + c();
 }
