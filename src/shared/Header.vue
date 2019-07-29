@@ -11,13 +11,28 @@
         </b-navbar-nav>-->
 
         <b-navbar-nav class="ml-auto">
-          <b-nav-item
+          <li class="nav-item">
+            <a href="#works" class="nav-link">Obras</a>
+          </li>
+          <li class="nav-item">
+            <a href="#top-contracts" class="nav-link">Top empresas con mas contractos</a>
+          </li>
+          <li class="nav-item">
+            <a href="#downloads" class="nav-link">Descarga los datos</a>
+          </li>
+          <li class="nav-item">
+            <a href="#tools" class="nav-link">Herramientas</a>
+          </li>
+          <li class="nav-item">
+            <a href="#information" class="nav-link">Informacion</a>
+          </li>
+          <!--<b-nav-item
             :to="{name:'contracts',params:{departament:'la-paz'}}"
             active-class="active"
             exact
           >Contratos</b-nav-item>
           <b-nav-item :to="{name:'top'}" active-class="active">Obras</b-nav-item>
-
+          -->
           <!--<b-nav-form>
             <b-form-input size="sm" class="mr-sm-2" placeholder="Search"></b-form-input>
             <b-button size="sm" class="my-2 my-sm-0" type="submit">Search</b-button>

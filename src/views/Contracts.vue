@@ -1,21 +1,31 @@
 <template>
-  <div v-if="!loading">
+  <div class="jumbotron bg-light">
+    <!--<p class="lead" v-text="'Obras contratadas por el Gobierno Autonomo Departamental de La Paz'"></p>-->
+    <div id="works"></div>
+    <h3 class="display-6 text-center" v-text="countContracts+' Obras'"></h3>
+    <!--<span class="badge badge-primary mr-1">Enero</span>
+    <span class="badge badge-primary mr-1">Febrero</span>
+    <span class="badge badge-primary">Marzo</span>-->
+    <h2 class="display-5 text-center">Enero + Febrero + Marzo = {{totalCost | currency("Bs. ")}}</h2>
+    <h2
+      class="display-5 text-center"
+    >Obras contratadas por el Gobierno Autonomo Departamental de La Paz</h2>
     <b-row class="about">
-      <b-col cols="12" md="6" class="text-center">
+      <b-col cols="12" md="6" class="text-center mt-1" v-if="!loading">
         <span
           class="badge badge-primary"
           variant="primary"
           :key="contract[0].contract_id"
           v-for="(contract,name,index) in contractsGroupByCompany"
           v-text="contract[0].company_name"
-          v-bind:style="{ backgroundColor: contractsGroupByCompanyOnlyColors[index]}"
+          v-bind:style="{ backgroundColor: contractsGroupByCompanyOnlyColors[index],
+          color:'#424242'}"
         ></span>
       </b-col>
-
-      <b-col cols="12" md="6" class="text-center">
+      <b-col cols="12" md="6" class="mt-1" v-if="!loading">
         <graph-treemap
-          :width="800"
-          :height="800"
+          :width="650"
+          :height="650"
           :text-align="'right'"
           :text-vertical-align="'bottom'"
           :colors="contractsGroupByCompanyOnlyColors"
@@ -25,7 +35,7 @@
           <tooltip :position="'top'"></tooltip>
         </graph-treemap>
       </b-col>
-      <b-col cols="12" md="7" class="text-center">
+      <b-col cols="12" md="7" class="text-center mt-3">
         <GmapMap
           :center="center"
           :zoom="zoom"
@@ -48,8 +58,9 @@
         <card-map :contract="currentContract" v-if="currentContract" />
       </b-col>
     </b-row>
-
-    <b-row class="mt-md-1">
+    <div id="top-contracts"></div>
+    <h1 class="text-center">Top 10 Empresas con mas Contratos</h1>
+    <b-row class="mt-md-1" v-if="!loading">
       <b-col cols="12" md="6" class="text-center">
         <chartjs-polar-area
           :height="500"
@@ -72,6 +83,37 @@
         </b-list-group>
       </b-col>
     </b-row>
+    <div id="downloads"></div>
+    <h1 class="text-center">Descargar los datos</h1>
+    <b-row>
+      <b-col cols="12">
+        <div class="text-center">
+          <b-button class="mr-1" href="https://www.google.com">.xls</b-button>
+          <b-button class="mr-1" href="https://www.google.com">.pdf</b-button>
+          <b-button class="mr-1" href="https://www.google.com">.csv</b-button>
+        </div>
+      </b-col>
+    </b-row>
+    <div id="tools"></div>
+    <h1 class="text-center">Herramientas</h1>
+    <b-row>
+      <b-col cols="12">
+        <div class="text-center">
+          <b-button class="mr-1" href>Google Charts</b-button>
+          <b-button class="mr-1" href>Chart.js</b-button>
+          <b-button class="mr-1" href>Vue.js</b-button>
+        </div>
+      </b-col>
+    </b-row>
+    <div id="information"></div>
+    <h1 class="text-center">Informacion</h1>
+    <p class="text-center">
+      Los datos fueron extraidos del:
+      <a href="https://www.sicoes.gob.bo/portal/index.php">SICOES</a>
+    </p>
+    <p
+      class="text-center"
+    >El sistema de contratraciones del Estado Plurinacional de Bolivia para completar el ODCS5</p>
   </div>
 </template>
 

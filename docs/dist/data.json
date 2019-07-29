@@ -1,0 +1,1369 @@
+[
+  {
+    "macrodistrict": "SAN ANTONIO",
+    "districts": [
+      {
+        "district": "D14",
+        "contracts": [
+          {
+            "object_contract": "MEJORAMIENTO ACCESO PAMPALARAMA",
+            "amount_work": 120000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CANALIZACION RIO TRANCAJAHUIRA",
+            "amount_work": 1810000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCIÓN EMBOVEDADO RIO",
+            "amount_work": 9900000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION  RUTA PARA NO VIDENTES FINANCIADA",
+            "amount_work": 670000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION GRADERIAS ZONA 4",
+            "amount_work": 430000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ACERAS Y OBRAS COMPLEMENTARIAS VIALES AV. J",
+            "amount_work": 160000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REMODELACION GRADERIAS CALLE RIO",
+            "amount_work": 101000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION GRADERIAS CALLE 2",
+            "amount_work": 100000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D15",
+        "contracts": [
+          {
+            "object_contract": "RECONSTRUCCION CANCHA UNIDAD EDUCATIVA X",
+            "amount_work": 1100000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D15",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "OBRAS DE ESTABILIZACION E IMPERMEABILIZACION DE SUELOS  AV. X",
+            "amount_work": 970000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D15",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION PLATAFORMA VIAL CALLE SS",
+            "amount_work": 79000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D15",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ACERAS CALLE C",
+            "amount_work": 87000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D15",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+
+      {
+        "district": "D16",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION JUEGOS PARA NIÑOS CALLE BOLIVIA",
+            "amount_work": 900000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D16",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "IMPERMEABILIZACION CALLE S/N,",
+            "amount_work": 130000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D16",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D17",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION DE BAÑOS Y VESTIDORES CAMPO DEPORTIVO BARRIO",
+            "amount_work": 640000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CANALIZACION RIO FF",
+            "amount_work": 1090000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE CUBIERTA AMBIENTE",
+            "amount_work": 87000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE GRADERIAS Y OBRAS COMPLEMENTARIAS CALLE M",
+            "amount_work": 99000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION GRADERIAS Y OBRAS COMPLEMENTARIAS CALLE M",
+            "amount_work": 120000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ACERAS INTERSECCION",
+            "amount_work": 39000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "COLOCADO CUBIERTA Y CONSTRUCCION DE PUESTOS DE VENTA MERCADO",
+            "amount_work": 99000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "macrodistrict": "COTAHUMA",
+    "districts": [
+      {
+        "district": "D3",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION DE OBRAS COMPLEMENTARIAS Y DE PROTECCION PATIO LIMA",
+            "amount_work": 1500000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D3",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION LOSA PARA CANAL DESDE LA CALLE 3",
+            "amount_work": 140000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D3",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ACERAS Y OBRAS COMPLEMENTARIAS CALLE G",
+            "amount_work": 190000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D3",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CAMPO DEPORTIVO Z",
+            "amount_work": 101000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D3",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D4",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION DE OBRAS COMPLEMENTARIAS AVENIDA TIQUINA",
+            "amount_work": 1400000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D4",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "EMPEDRADO CALLE1",
+            "amount_work": 160000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D4",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D5",
+        "contracts": [
+          {
+            "object_contract": "REPARACION BOVEDA RIO HUMAHUACA",
+            "amount_work": 80000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION HOSPITAL DE SEGUNDO NIVEL",
+            "amount_work": 10000000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION MURO DE CONTENCION UNIDAD EDUCATIVA",
+            "amount_work": 99000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REPARACION EMBOVEDADO RIO CHAQUER",
+            "amount_work": 270000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CANAL EMBOVEDADO RIO W",
+            "amount_work": 350000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REPARACIÓN OBRAS HIDRÁULICAS RIO C",
+            "amount_work": 9900000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REHABILITACION VIAL AVENIDA 1",
+            "amount_work": 37000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION  DE REFUGIOS Y TOTEMS PARA EL SERVICIO DE TRANSPORTE PUBLICO EN EL MUNICIPIO DE LA PAZ",
+            "amount_work": 370000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ACERAS Y ESPACIO AREA VERDE",
+            "amount_work": 80000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION  PLATAFORMA VIAL Y OBRAS COMPLEMENTARIAS PROLONGACION P",
+            "amount_work": 79000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ACERAS Y OBRAS COMPLEMENTARIAS DE LAS CALLES P",
+            "amount_work": 100000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION LAVANDERIAS FINAL C5",
+            "amount_work": 110000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION EMPEDRADO",
+            "amount_work": 100000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D5",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D6",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION CENTRO INFANTIL",
+            "amount_work": 200000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D6",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE CUBIERTA DE PATIO UNIDAD EDUCATIVA",
+            "amount_work": 110000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D6",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION  DE MURO DE CONTENCION DE H",
+            "amount_work": 90000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D6",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION SISTEMA DE DRENAJE PLUVIAL  ZONA T",
+            "amount_work": 410000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D6",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION PLATAFORMA VIAL ACCESO CALLE I",
+            "amount_work": 90000,
+            "macrodistrict": "COTAHUMA",
+            "district": "D6",
+            "location": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "macrodistrict": "CENTRO",
+    "districts": [
+      {
+        "district": "D1",
+        "contracts": [
+          {
+            "object_contract": "REMODELACION SALON CECILIO GUZMAN DE ROJAS",
+            "amount_work": 89000,
+            "macrodistrict": "CENTRO",
+            "district": "D1",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "RECONSTRUCCION DE CANCHA  UNIDAD EDUCATIVA",
+            "amount_work": 106000,
+            "macrodistrict": "CENTRO",
+            "district": "D1",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "MANTENIMIENTO DEL PUENTE",
+            "amount_work": 440000,
+            "macrodistrict": "CENTRO",
+            "district": "D1",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CERRAMIENTO TINGLADO CAMPO DEPORTIVO",
+            "amount_work": 49000,
+            "macrodistrict": "CENTRO",
+            "district": "D1",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION GRADERIAS CALLE Z",
+            "amount_work": 29000,
+            "macrodistrict": "CENTRO",
+            "district": "D1",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D2",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCIÓN  TINGLADO CAMPO DEPORTIVO",
+            "amount_work": 50000,
+            "macrodistrict": "CENTRO",
+            "district": "D2",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE INTERCONEXIONES E INFRAESTRUCTURA SUBTERRANEA PARA REDES DE TELECOMUNICACION CASCO VIEJO",
+            "amount_work": 960000,
+            "macrodistrict": "CENTRO",
+            "district": "D2",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REPARACION EMBOVEDADO RIO HERRERIAS",
+            "amount_work": 290000,
+            "macrodistrict": "CENTRO",
+            "district": "D2",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "MEJORAMIENTO DE LA INFRAESTRUCTURA CENTRO DE SALUD",
+            "amount_work": 87000,
+            "macrodistrict": "CENTRO",
+            "district": "D2",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "COMPLEMENTACION DE OBRAS VIALES CALLE JJ",
+            "amount_work": 160000,
+            "macrodistrict": "CENTRO",
+            "district": "D2",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ENMALLADO PERIMETRAL",
+            "amount_work": 160000,
+            "macrodistrict": "CENTRO",
+            "district": "D2",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION PLATAFORMA VIAL CALLE ANTENAS ZONA P",
+            "amount_work": 91000,
+            "macrodistrict": "CENTRO",
+            "district": "D2",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D14",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION DE PARQUE INFANTIL",
+            "amount_work": 30000,
+            "macrodistrict": "CENTRO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION EMBOVEDADO RIO TAY",
+            "amount_work": 380000,
+            "macrodistrict": "CENTRO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CENTRO DE SALUD",
+            "amount_work": 99000,
+            "macrodistrict": "CENTRO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION MURO DE CONTENCION Y OBRAS COMPLEMENTARIAS CALLE 1",
+            "amount_work": 100000,
+            "macrodistrict": "CENTRO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "macrodistrict": "PERIFERICA",
+    "districts": [
+      {
+        "district": "D11",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCIÓN SISTEMA DE AGUA POTABLE",
+            "amount_work": 70000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D11",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "MEJORAMIENTO VIAL",
+            "amount_work": 800000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D11",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION MURO DE CONTENCION UNIDAD EDUCATIVA",
+            "amount_work": 190000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D11",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REPARACION CANALIZACION RIO",
+            "amount_work": 1000000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D11",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION MUROS DE ESTABILIZACION CALLE PEDRO",
+            "amount_work": 990000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D11",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "PINTADO DE POSTES CALLE C Y VIAS ADYACENTES",
+            "amount_work": 9000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D11",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION MUROS, GRADERIAS",
+            "amount_work": 100000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D11",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CASA DEL ADULTO MAYOR",
+            "amount_work": 97000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D11",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION PLATAFORMA VIAL",
+            "amount_work": 100000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D11",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D12",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION CASA COMUNAL  VILLA OQUENDO",
+            "amount_work": 120000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D12",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION OBRAS COMPLEMENTARIAS CALLE L",
+            "amount_work": 30000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D12",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION MURO DE CONTENCION",
+            "amount_work": 99000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D12",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D13",
+        "contracts": [
+          {
+            "object_contract": "ASFALTADO AV.",
+            "amount_work": 70000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D13",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION OBRAS DE PREVENCION SECTOR CAMPO DEPORTIVO",
+            "amount_work": 1710000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D13",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CANAL EMBOVEDADO RIO",
+            "amount_work": 1800000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D13",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "RECONSTRUCCION DE OBRAS HIDRÁULICAS RÍO A",
+            "amount_work": 3400000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D13",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "PROVISION E INSTALACION DE ALUMBRADO PUBLICO CALLE DEL P",
+            "amount_work": 190000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D13",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CAMPO DEPORTIVO ZONA S.",
+            "amount_work": 69000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D13",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ENCARPETADO CALLEJONES \"A",
+            "amount_work": 640000,
+            "macrodistrict": "PERIFERICA",
+            "district": "D13",
+            "location": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "macrodistrict": "HAMATURI",
+    "districts": [
+      {
+        "district": "D22",
+        "contracts": [
+          {
+            "object_contract": "EMPEDRADO Y OBRAS COMPLEMENTARIAS CALLE K",
+            "amount_work": 99000,
+            "macrodistrict": "HAMATURI",
+            "district": "D22",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE VIADUCTO PROLONGACION CALLE 5",
+            "amount_work": 100000,
+            "macrodistrict": "HAMATURI",
+            "district": "D22",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "PROVISION Y COLOCADO PISTA ATLETICA",
+            "amount_work": 122000,
+            "macrodistrict": "HAMATURI",
+            "district": "D22",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CENTRO CULTURAL LITERARIO CASA DEL POETA MIRAFLORES",
+            "amount_work": 150000,
+            "macrodistrict": "HAMATURI",
+            "district": "D22",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "EMPEDRADO Y OBRAS COMPLEMENTARIAS CALLES 5, 6",
+            "amount_work": 990000,
+            "macrodistrict": "HAMATURI",
+            "district": "D22",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "OBRAS DE ESTABILIZACION CALLE JULIAN",
+            "amount_work": 5200000,
+            "macrodistrict": "HAMATURI",
+            "district": "D22",
+            "location": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "macrodistrict": "MALLASA",
+    "districts": [
+      {
+        "district": "D20",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION  DE OBRAS VIALES Y PEATONALES CALLE 2",
+            "amount_work": 100000,
+            "macrodistrict": "MALLASA",
+            "district": "D20",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION GRADERIA CALLE 5",
+            "amount_work": 160000,
+            "macrodistrict": "MALLASA",
+            "district": "D20",
+            "location": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "macrodistrict": "MAX PAREDES",
+    "districts": [
+      {
+        "district": "D7",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION DE VIA VEHICULAR 5 DE MAYO",
+            "amount_work": 160000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D7",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "EMPEDRADO Y OBRAS COMPLEMENTARIAS",
+            "amount_work": 79000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D7",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REMODELACION CANCHA DEPORTIVA",
+            "amount_work": 95000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D7",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D8",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION DE MERCADO",
+            "amount_work": 120000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D8",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION AREAS DE ESPARCIMIENTO PASAJE O",
+            "amount_work": 150000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D8",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REPARACIÓN OBRAS HIDRÁULICAS CANAL RÍO OR",
+            "amount_work": 2400000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D8",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION LAVANDERIAS",
+            "amount_work": 160000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D8",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D9",
+        "contracts": [
+          {
+            "object_contract": "REMODELACIÓN BIBLIOTECA",
+            "amount_work": 120000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D9",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE CANCHA UNIDAD EDUCATIVA Z",
+            "amount_work": 230000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D9",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION MUROS DE CONTENCION Y OBRAS DE DRENAJE PLUVIAL AV. SEGUNDO",
+            "amount_work": 350000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D9",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE SISTEMA DE DRENAJE Y ALCANTARILLADO PLUVIAL CALLE D",
+            "amount_work": 99000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D9",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION PLATAFORMA VIAL CALLE M",
+            "amount_work": 99000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D9",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CASA COMUNAL",
+            "amount_work": 99000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D9",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D10",
+        "contracts": [
+          {
+            "object_contract": "MEJORAMIENTO DE BARRIO ALTO",
+            "amount_work": 3200000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D10",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CANAL EMBOVEDADO",
+            "amount_work": 650000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D10",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE BOLETERIA CAMPO DEPORTIVO",
+            "amount_work": 75000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D10",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "MEJORAMIENTO DE LA INFRAESTRUCTURA CENTRO DE SALUD",
+            "amount_work": 110000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D10",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION OBRAS COMPLEMENTARIAS CASA COMUNAL",
+            "amount_work": 32000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D10",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ALCANTARILALDO PLUVIAL Y OBRAS COMPLEMENTARIAS CALLE 2",
+            "amount_work": 150000,
+            "macrodistrict": "MAX PAREDES",
+            "district": "D10",
+            "location": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "macrodistrict": "SAN ANTONIO",
+    "districts": [
+      {
+        "district": "D14",
+        "contracts": [
+          {
+            "object_contract": "MEJORAMIENTO ACCESO PAMPALARAMA",
+            "amount_work": 120000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CANALIZACION RIO TRANCAJAHUIRA",
+            "amount_work": 1810000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCIÓN EMBOVEDADO RIO",
+            "amount_work": 9900000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION  RUTA PARA NO VIDENTES FINANCIADA",
+            "amount_work": 670000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION GRADERIAS ZONA 4",
+            "amount_work": 430000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ACERAS Y OBRAS COMPLEMENTARIAS VIALES AV. J",
+            "amount_work": 160000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REMODELACION GRADERIAS CALLE RIO",
+            "amount_work": 101000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION GRADERIAS CALLE 2",
+            "amount_work": 100000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D14",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D15",
+        "contracts": [
+          {
+            "object_contract": "RECONSTRUCCION CANCHA UNIDAD EDUCATIVA X",
+            "amount_work": 1100000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D15",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "OBRAS DE ESTABILIZACION E IMPERMEABILIZACION DE SUELOS  AV. X",
+            "amount_work": 970000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D15",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION PLATAFORMA VIAL CALLE SS",
+            "amount_work": 79000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D15",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ACERAS CALLE C",
+            "amount_work": 87000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D15",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D16",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION JUEGOS PARA NIÑOS CALLE BOLIVIA",
+            "amount_work": 900000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D16",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "IMPERMEABILIZACION CALLE S/N,",
+            "amount_work": 130000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D16",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D17",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION DE BAÑOS Y VESTIDORES CAMPO DEPORTIVO BARRIO",
+            "amount_work": 640000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION CANALIZACION RIO FF",
+            "amount_work": 1090000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE CUBIERTA AMBIENTE",
+            "amount_work": 87000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE GRADERIAS Y OBRAS COMPLEMENTARIAS CALLE M",
+            "amount_work": 99000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION GRADERIAS Y OBRAS COMPLEMENTARIAS CALLE M",
+            "amount_work": 120000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION ACERAS INTERSECCION",
+            "amount_work": 39000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "COLOCADO CUBIERTA Y CONSTRUCCION DE PUESTOS DE VENTA MERCADO",
+            "amount_work": 99000,
+            "macrodistrict": "SAN ANTONIO",
+            "district": "D17",
+            "location": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "macrodistrict": "SUR",
+    "districts": [
+      {
+        "district": "D18",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION CAMPO DEPORTIVO",
+            "amount_work": 260000,
+            "macrodistrict": "SUR",
+            "district": "D18",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION OBRAS DE REFUERZO DE TALUD",
+            "amount_work": 34000,
+            "macrodistrict": "SUR",
+            "district": "D18",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "ENCARPETADO DE CANCHA",
+            "amount_work": 110000,
+            "macrodistrict": "SUR",
+            "district": "D18",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "EMPEDRADO Y OBRAS COMPLEMENTARIAS CALLE 27",
+            "amount_work": 120000,
+            "macrodistrict": "SUR",
+            "district": "D18",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION OBRAS COMPLEMENTARIAS ASFALTO",
+            "amount_work": 100000,
+            "macrodistrict": "SUR",
+            "district": "D18",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION GRADERIAS CALLE T",
+            "amount_work": 120000,
+            "macrodistrict": "SUR",
+            "district": "D18",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION OBRAS DE ESTABILIZACION DEL CAMPO DEPORTIVO",
+            "amount_work": 98000,
+            "macrodistrict": "SUR",
+            "district": "D18",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D19",
+        "contracts": [
+          {
+            "object_contract": "MEJORAMIENTO PLAZA",
+            "amount_work": 30000,
+            "macrodistrict": "SUR",
+            "district": "D19",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION MURO DE CONTENCION Y REPARACION DE INMUEBLE COLINDANTE UNIDAD EDUCATIVA",
+            "amount_work": 580000,
+            "macrodistrict": "SUR",
+            "district": "D19",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REPARACION OBRAS HIDRAULICAS RIO KO",
+            "amount_work": 360000,
+            "macrodistrict": "SUR",
+            "district": "D19",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE GIMNASIOS PARA DISCAPACITADOS",
+            "amount_work": 69000,
+            "macrodistrict": "SUR",
+            "district": "D19",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE SISTEMA DE DRENAJE Y ALCANTARILLADO PLUVIAL",
+            "amount_work": 170000,
+            "macrodistrict": "SUR",
+            "district": "D19",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE GIMNASIO",
+            "amount_work": 100000,
+            "macrodistrict": "SUR",
+            "district": "D19",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION OBRAS DE ESTABILIZACION",
+            "amount_work": 100000,
+            "macrodistrict": "SUR",
+            "district": "D19",
+            "location": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "district": "D21",
+        "contracts": [
+          {
+            "object_contract": "CONSTRUCCION DE OBRAS COMPLEMETARIAS EN CALLE L",
+            "amount_work": 160000,
+            "macrodistrict": "SUR",
+            "district": "D21",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "EMPEDRADO Y OBRAS COMPLEMENTARIAS AV 2",
+            "amount_work": 100000,
+            "macrodistrict": "SUR",
+            "district": "D21",
+            "location": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "macrodistrict": "ZONGO",
+    "districts": [
+      {
+        "district": "D23",
+        "contracts": [
+          {
+            "object_contract": "EMBOVEDADO RIO",
+            "amount_work": 100000,
+            "macrodistrict": "ZONGO",
+            "district": "D23",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "REPARACION DE OBRAS HIDRAULICAS RIO H",
+            "amount_work": 140000,
+            "macrodistrict": "ZONGO",
+            "district": "D23",
+            "location": "",
+            "image": ""
+          },
+          {
+            "object_contract": "CONSTRUCCION DE AULAS UNIDAD EDUCATIVA",
+            "amount_work": 320000,
+            "macrodistrict": "ZONGO",
+            "district": "D23",
+            "location": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  }
+]
