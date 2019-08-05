@@ -2,6 +2,10 @@ export function contractsGroupByCompany(state) {
   return groupByContractsCompanyName(state.contracts);
 }
 
+export function contractsWithoutEmptyMilestones(state) {
+  return state.contracts.filter(contract => contract.milestones !== "");
+}
+
 export function contractsGroupByCompanyOnlyColors(state) {
   let colors = [];
   for (

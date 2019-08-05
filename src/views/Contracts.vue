@@ -24,8 +24,12 @@
       </b-col>
       <b-col cols="12" md="6" class="mt-1" v-if="!loading">
         <graph-treemap
-          :width="650"
-          :height="650"
+          :width="400"
+          :height="400"
+          :padding-top="0"
+          :padding-right="0"
+          :padding-bottom="0"
+          :padding-left="0"
           :text-align="'right'"
           :text-vertical-align="'bottom'"
           :colors="contractsGroupByCompanyOnlyColors"
@@ -36,7 +40,7 @@
         </graph-treemap>
       </b-col>
       <b-col cols="12" md="7" class="text-center mt-3">
-        <GmapMap
+        <!--<GmapMap
           :center="center"
           :zoom="zoom"
           map-type-id="terrain"
@@ -52,7 +56,22 @@
             :draggable="false"
             @click="displayInfo(contract);"
           />
-        </GmapMap>
+        </GmapMap>-->
+        <l-map style="height: 400px; width: 100%" :zoom="osm.zoom" :center="osm.center" ref="map">
+          <l-tile-layer :url="osm.url" :attribution="osm.attribution"></l-tile-layer>
+          <l-marker
+            :key="index"
+            v-for="(contract, index) in contractsWithoutEmptyMilestones"
+            :lat-lng="contract.milestones|osmarker"
+            @click="reposition(contract)"
+          >
+            <l-tooltip>{{contract.title}}</l-tooltip>
+          </l-marker>
+
+          <!--<l-marker :lat-lng="osm.markerLatLng" @click="reposition('xyz')">
+            <l-tooltip>Hello!</l-tooltip>
+          </l-marker>-->
+        </l-map>
       </b-col>
       <b-col cols="12" md="5" class="text-center">
         <card-map :contract="currentContract" v-if="currentContract" />
@@ -121,6 +140,7 @@
 import { mapGetters, mapState, mapActions } from "vuex";
 import Vue2Filters from "vue2-filters";
 import CardMap from "@/components/CardMap";
+
 export default {
   mixins: [Vue2Filters.mixin],
   mounted() {
@@ -148,6 +168,11 @@ export default {
       }
     ];
     this.fetchContracts();
+
+    this.$nextTick(() => {
+      this.osm.map = this.$refs.map.mapObject;
+      //L.tileLayer.provider("Stamen.Toner").addTo(this.osm.map);
+    });
   },
   components: {
     CardMap
@@ -311,7 +336,21 @@ export default {
         "#9EDE00",
         "#FF0000",
         "#00FF00"
-      ]
+      ],
+      osm: {
+        /*"http://{s}.tile.osm.org/{z}/{x}/{y}.png",*/
+        url:
+          "https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}{r}.png",
+        attribution:
+          '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+
+        zoom: 10,
+        center: [-16.4957409, -68.1356726],
+        /*center: [47.41322, -1.219482],*/
+        markerLatLng: [47.31322, -1.319482],
+        visible: true,
+        map: null
+      }
     };
   },
   methods: {
@@ -324,7 +363,16 @@ export default {
       this.zoom = 18 + Math.random() * 0.0001;
       this.currentContract = contract;
     },
-    ...mapActions("contracts", ["fetchContracts"])
+    ...mapActions("contracts", ["fetchContracts"]),
+    reposition(contract) {
+      const splitData = contract.milestones.split(",");
+      this.osm.zoom = 20;
+      this.osm.center = [
+        parseFloat(splitData[0]) + Math.random() * 0.0001,
+        parseFloat(splitData[1]) + Math.random() * 0.0001
+      ];
+      this.currentContract = contract;
+    }
   },
   computed: {
     ...mapState("contracts", ["contracts"]),
@@ -336,7 +384,8 @@ export default {
       "onlyLabels",
       "onlySubtotal",
       "contractsGroupByCompany",
-      "contractsGroupByCompanyOnlyColors"
+      "contractsGroupByCompanyOnlyColors",
+      "contractsWithoutEmptyMilestones"
     ])
   }
 };
