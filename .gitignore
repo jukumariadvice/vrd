@@ -13,6 +13,8 @@ yarn-error.log*
 
 package-lock.json
 
+docs/contracts
+
 # Editor directories and files
 .idea
 .vscode
