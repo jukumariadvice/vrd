@@ -17,7 +17,7 @@
       <span class="ml-1" v-text="contract.amount+' '+contract.currency"></span>
     </b-card-text>
 
-    <b-button class="mt-1" href="https://www.google.com">Descargar el contrato</b-button>
+    <b-button class="mt-1" :href="'https://jukumariadvice.github.io/vrd/contracts/'+contract.number+'.pdf'">Descargar el contrato</b-button>
     <!--<a href="#" class="card-link">Card link</a>
     <b-link href="#" class="card-link">Another link</b-link>-->
   </b-card>

@@ -1,5 +1,6 @@
 [
   {
+    "number":1,
     "contract_id": "OBN-98/2019",
     "award_id": "19-1201-00-936247-0-E",
     "company_name": "PONTECON S.R.L.",
@@ -10,12 +11,13 @@
     "date_signed": "8 de marzo de 2019",
     "start_date": "",
     "end_date": "61 dias",
-    "amount": "99982.53",
+    "amount": 99982.53,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5113427,-68.0837165"
   },
   {
+    "number":2,
     "contract_id": "OBN-92/2019",
     "award_id": "19-1201-00-935920-0-E",
     "company_name": "CHUQUÍ DE CONSTRUCCIONES S.R.L.",
@@ -26,16 +28,17 @@
     "date_signed": "11 de marzo de 2019",
     "start_date": "",
     "end_date": "45 dias",
-    "amount": "79999.21",
+    "amount": 79999.21,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4995695,-68.1101573"
   },
   {
+    "number":3,
     "contract_id": "OBN-4/2019",
     "award_id": "19-1201-00-935905-0-E",
-    "company_name": "Ramiro Rivera Cortez",
-    "nit": 11008542017,
+    "company_name": "Ramiro Rivera Cortez",        
+    "nit": 99982.62,
     "title": "Ampliacion Mingitorio Publico Zona Norte Copacabana",
     "description": "",
     "contract_status": "Contratado",
@@ -48,10 +51,11 @@
     "milestones": "-16.4956323,-68.1186043"
   },
   {
+    "number":4,
     "contract_id": "OBN-24/2019",
     "award_id": "19-1201-00-935884-0-E",
-    "company_name": "R O X S O L S .R .L .",
-    "nit": 167458028,
+    "company_name": "R O X S O L S .R .L .",         
+    "nit": 99935.04,
     "title": "Reconstruccion Graderias Calle 1 Zona Padre Eterno",
     "description": "",
     "contract_status": "Contratado",
@@ -64,10 +68,11 @@
     "milestones": "-16.5025285,-68.1792874"
   },
   {
+    "number":5,
     "contract_id": "OBN-48/2019",
     "award_id": "19-1201-00-935782-0-E",
     "company_name": "TECCON TECNOLOGIA & CONSTRUCCION S.R.L.",
-    "nit": 303512020,
+    "nit": 63994.76,
     "title": "Empedrado Avenida Costanera Entre Calle 1 Y Area Verde-4 Zona Lomas De Chasquipampa",
     "description": "",
     "contract_status": "Contratado",
@@ -80,10 +85,11 @@
     "milestones": "-16.5393939,-68.0539942"
   },
   {
+    "number":6,
     "contract_id": "OBN-148/2019",
     "award_id": "19-1201-00-931830-0-E",
     "company_name": "CONSTRUCTORA HUALLPINO",
-    "nit": 1029241022,
+    "nit": 85942,
     "title": "Construccion Graderias En Area De Equipamiento Eq-3 Y Sector Av-2 Zona La Merced Sector A-2",
     "description": "",
     "contract_status": "Contratado",
@@ -95,7 +101,7 @@
     "items_contracted": "",
     "milestones": "-16.5401151,-68.0626747"
   },
-  {
+  {"number":7,
     "contract_id": "OBN-146/2019",
     "award_id": "19-1201-00-931881-0-E",
     "company_name": "GUILLCON S.R.L.",
@@ -111,7 +117,7 @@
     "items_contracted": "",
     "milestones": "-16.4680857,-68.125711"
   },
-  {
+  {"number":8,
     "contract_id": "OBN-63/2019",
     "award_id": "19-1201-00-930931-0-E",
     "company_name": "NATALIO LAYME CHAMBI",
@@ -127,7 +133,7 @@
     "items_contracted": "",
     "milestones": "-16.5441249,-68.051387"
   },
-  {
+  {"number":9,
     "contract_id": "OBN-53/2019",
     "award_id": "19-1201-00-930900-0-E",
     "company_name": "NATALIO LAYME CHAMBI",
@@ -144,6 +150,7 @@
     "milestones": "-16.4720658,-68.1308707"
   },
   {
+    "number":10,
     "contract_id": "OBN-57/2019",
     "award_id": "19-1201-00-931837-0-E",
     "company_name": "CONTRUCTORA SOLCONCIV S.R.L.",
@@ -160,6 +167,7 @@
     "milestones": "-16.499333,-68.1228413"
   },
   {
+    "number":11,
     "contract_id": "OBN-151/2019",
     "award_id": "19-1201-00-931821-0-E",
     "company_name": "CONTRUCTORA SOLCONCIV S.R.L.",
@@ -170,12 +178,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "98997.56",
+    "amount": 98997.56,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4983249,-68.1459968"
   },
   {
+    "number":12,
     "contract_id": "OBN-147/2019",
     "award_id": "19-1201-00-930891-0-E",
     "company_name": "TORREZ CHOQUE LEOPOLDO TEODORO",
@@ -192,6 +201,7 @@
     "milestones": "-16.5279486,-68.1045545"
   },
   {
+    "number":13,
     "contract_id": "OBN-150/2019",
     "award_id": "19-1201-00-932696-0-E",
     "company_name": "CONSTRUCTORA MULTIDICIPLINARIA OSIEL S.R.L.",
@@ -208,6 +218,7 @@
     "milestones": "-16.4656357,-68.1074355"
   },
   {
+    "number":14,
     "contract_id": "OBN-149/2019",
     "award_id": "19-1201-00-932698-0-E",
     "company_name": "CONSTRUCTORA MULTIDICIPLINARIA OSIEL S.R.L.",
@@ -224,6 +235,7 @@
     "milestones": "-16.4656357,-68.1074355"
   },
   {
+    "number":15,
     "contract_id": "OBN-38/2019",
     "award_id": "19-1201-00-930846-0-E",
     "company_name": "TORREZ MAMANI FRANCISCO",
@@ -234,12 +246,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "99996.16",
+    "amount": 99996.16,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4941606,-68.1292302"
   },
   {
+    "number":16,
     "contract_id": "OBN-54/2019",
     "award_id": "19-1201-00-930877-0-E",
     "company_name": "EMPRESA CONSTRUCTORA SERVICIOS Y TRANSPORTES ECOMSET SRL",
@@ -256,6 +269,7 @@
     "milestones": "-16.550467,-68.1955209"
   },
   {
+    "number":17,
     "contract_id": "OBN-52/2019",
     "award_id": "19-1201-00-930887-0-E",
     "company_name": "CONSULTORA Y CONSTRUCTORA IVORY S.R.L.",
@@ -266,12 +280,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "99972.75",
+    "amount": 99972.75,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4981418,-68.1304532"
   },
   {
+    "number":18,
     "contract_id": "OBN-60/2019",
     "award_id": "19-1201-00-930883-0-E",
     "company_name": "EMPRESA CONSTRUCTORA SERVICIOS Y TRANSPORTES ECOMSET SRL",
@@ -282,12 +297,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "98801.26",
+    "amount": 98801.26,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5009651,-68.1328659"
   },
   {
+    "number":19,
     "contract_id": "OBN-93/2019",
     "award_id": "19-1201-00-930851-0-E",
     "company_name": "CONSTRUCTORA ROJAS VELAZCO S.R.L.",
@@ -298,12 +314,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "61 dias",
-    "amount": "60229.89",
+    "amount": 60229.89,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.487661,-68.139995"
   },
   {
+    "number":20,
     "contract_id": "OBN-36/2019",
     "award_id": "19-1201-00-930840-0-E",
     "company_name": "TORREZ MAMANI FRANCISCO",
@@ -320,6 +337,7 @@
     "milestones": "-16.4575417,-68.1554388"
   },
   {
+    "number":21,
     "contract_id": "OBN-58/2019",
     "award_id": "19-1201-00-930869-0-E",
     "company_name": "EMPRESA CONSTRUCTORA FUNDY",
@@ -330,12 +348,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "77869.82",
+    "amount": 77869.82,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4680857,-68.125711"
   },
   {
+    "number":22,
     "contract_id": "OBN-39/2019",
     "award_id": "19-1201-00-931811-0-E",
     "company_name": "CONSTRUCTORA MULTIDICIPLINARIA ROSOMA S.R.L.",
@@ -346,12 +365,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "69618.67",
+    "amount": 69618.67,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4680828,-68.1585421"
   },
   {
+    "number":23,
     "contract_id": "OBN-72/2019",
     "award_id": "19-1201-00-931813-0-E",
     "company_name": "CONSTRUCTORA MULTIDICIPLINARIA BARZILAI S.R.L.",
@@ -362,12 +382,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "62 dias",
-    "amount": "75942.45",
+    "amount": 75942.45,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4826827,-68.1477056"
   },
   {
+    "number":24,
     "contract_id": "OBN-56/2019",
     "award_id": "19-1201-00-931809-0-E",
     "company_name": "CONSTRUCTORA AMARU & LEON S.R.L.",
@@ -384,6 +405,7 @@
     "milestones": "-16.4881717,-68.1270354"
   },
   {
+    "number":25,
     "contract_id": "OBN-50/2019",
     "award_id": "19-1201-00-931825-0-E",
     "company_name": "CONSTRUCTORA MULTIDICIPLINARIA BARZILAI S.R.L.",
@@ -394,12 +416,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "70 dias",
-    "amount": "62294.5",
+    "amount": 62294.5,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4966273,-68.0908167"
   },
   {
+    "number":26,
     "contract_id": "OBN-46/2019",
     "award_id": "19-1201-00-930860-0-E",
     "company_name": "CONSTRUCTORA ROJAS VELAZCO S.R.L.",
@@ -410,12 +433,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "99735.7",
+    "amount": 99735.7,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4878677,-68.1583127"
   },
   {
+    "number":27,
     "contract_id": "OBN-75/2019",
     "award_id": "19-1201-00-931838-0-E",
     "company_name": "GUILLCON S.R.L.",
@@ -432,6 +456,7 @@
     "milestones": "-16.5199412,-68.1190181"
   },
   {
+    "number":28,
     "contract_id": "OBN-73/2019",
     "award_id": "19-1201-00-931840-0-E",
     "company_name": "EMPRESA CONSTRUCTORA MULTIDICIPLINARIA IMPROARC S.R.L.",
@@ -448,6 +473,7 @@
     "milestones": "-16.4962645,-68.1425983"
   },
   {
+    "number":29,
     "contract_id": "OBN-74/2019",
     "award_id": "19-1201-00-934052-0-E",
     "company_name": "CONSTRUCTORA HUALLPINO",
@@ -464,6 +490,7 @@
     "milestones": "-16.4772058,-68.1309367"
   },
   {
+    "number":30,
     "contract_id": "OBN-59/2019",
     "award_id": "19-1201-00-930932-0-E",
     "company_name": "EMPRESA CONSTRUCTORA MULTIDICIPLINARIA IMPROARC S.R.L.",
@@ -480,6 +507,7 @@
     "milestones": "-16.45739,-68.1490544"
   },
   {
+    "number":31,
     "contract_id": "OBN-49/2019",
     "award_id": "19-1201-00-930942-0-E",
     "company_name": "TORREZ CHOQUE LEOPOLDO TEODORO",
@@ -490,12 +518,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "40 dias",
-    "amount": "54947.92",
+    "amount": 54947.92,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4906203,-68.1334577"
   },
   {
+    "number":32,
     "contract_id": "OBN-51/2019",
     "award_id": "19-1201-00-931828-0-E",
     "company_name": "CONSTRUCTORA MULTIDICIPLINARIA ROSOMA S.R.L.",
@@ -506,12 +535,13 @@
     "date_signed": "28 de febrero de 2019",
     "start_date": "",
     "end_date": "61 dias",
-    "amount": "99684.14",
+    "amount": 99684.14,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5848582,-68.0858802"
   },
   {
+    "number":33,
     "contract_id": "OBN-55/2019",
     "award_id": "19-1201-00-930939-0-E",
     "company_name": "CONSULTORA Y CONSTRUCTORA IVORY S.R.L.",
@@ -528,6 +558,7 @@
     "milestones": "-16.3199616,-68.4132968"
   },
   {
+    "number":34,
     "contract_id": "OBN-45/2019",
     "award_id": "19-1201-00-930872-0-E",
     "company_name": "EMPRESA CONSTRUCTORA FUNDY",
@@ -544,86 +575,7 @@
     "milestones": "-16.5152132,-68.1509318"
   },
   {
-    "contract_id": "OBN-173/2019",
-    "award_id": "19-1201-00-931735-1-1",
-    "company_name": "VM 3600 S.R.L., PRANA EMPRESA UNIPERSONAL",
-    "nit": "336922020, 2637514010",
-    "title": "Empedrado Y Obras Complementarias Calle A Y Graderias Calle Prolongacion 2-2b Zona El Vergel Llojeta",
-    "description": "",
-    "contract_status": "Contratado",
-    "date_signed": "1 de abril 2019",
-    "start_date": "",
-    "end_date": "45 dias",
-    "amount": "101403.76",
-    "currency": "Bolivianos",
-    "items_contracted": "",
-    "milestones": "-16.5100591,-68.0878383"
-  },
-  {
-    "contract_id": "OBN-178/2019",
-    "award_id": "19-1201-00-932475-1-1",
-    "company_name": "VM 3600 S.R.L., PRANA EMPRESA UNIPERSONAL",
-    "nit": "336922020, 2637514010",
-    "title": "Encarpetado Y Obras Complementarias Calle Cruz Del Sur Zona Pasankeri Bajo Central",
-    "description": "",
-    "contract_status": "Contratado",
-    "date_signed": "1 de abril 2019",
-    "start_date": "",
-    "end_date": "40 dias",
-    "amount": "101431.41",
-    "currency": "Bolivianos",
-    "items_contracted": "",
-    "milestones": "-16.5240583,-68.1483758"
-  },
-  {
-    "contract_id": "OBN-136/2019",
-    "award_id": "19-1201-00-930502-1-1",
-    "company_name": "EMPRESA CONSTRUCTORA RUBEN QZ S.R.L.",
-    "nit": 309090025,
-    "title": "Construccion Alcantarillado Pluvial, Empedrado Y Obras Complementarias Calle 7, Calle 7b Y Calle S Zona Bajo Llojeta",
-    "description": "",
-    "contract_status": "Contratado",
-    "date_signed": "1 de abril 2019",
-    "start_date": "",
-    "end_date": "50 dias",
-    "amount": "116122.99",
-    "currency": "Bolivianos",
-    "items_contracted": "",
-    "milestones": "-16.5273281,-68.1255933"
-  },
-  {
-    "contract_id": "OBN-143/2019",
-    "award_id": "19-1201-00-930490-1-1",
-    "company_name": "VM 3600 S.R.L., PRANA EMPRESA UNIPERSONAL",
-    "nit": "336922020, 2637514010",
-    "title": "Empedrado ,Encarpetado Y Obras Complementarias Calles Prolongacion Pasaje Lastra Y Luis Gamarra Zona Kantutani",
-    "description": "",
-    "contract_status": "Contratado",
-    "date_signed": "1 de abril 2019",
-    "start_date": "",
-    "end_date": "45 dias",
-    "amount": "130894.78",
-    "currency": "Bolivianos",
-    "items_contracted": "",
-    "milestones": "-16.5137518,-68.128683"
-  },
-  {
-    "contract_id": "OBN-82/2019",
-    "award_id": "19-1201-00-930797-1-1",
-    "company_name": "VM 3600 S.R.L., PRANA EMPRESA UNIPERSONAL",
-    "nit": "336922020, 2637514010",
-    "title": "Construccion Y Reconstruccion Aceras Y Obras Complementarias Calle Pioneros De Rochadale, Canonigo Ayllon Y Amazonas Zona Bello Horizonte Bajo",
-    "description": "",
-    "contract_status": "Contratado",
-    "date_signed": "1 de abril 2019",
-    "start_date": "",
-    "end_date": "40 dias",
-    "amount": "115862.00",
-    "currency": "Bolivianos",
-    "items_contracted": "",
-    "milestones": "-16.5090639,-68.1399576"
-  },
-  {
+    "number":35,
     "contract_id": "OBN-21/2019",
     "award_id": "19-1201-00-932086-0-E",
     "company_name": "SAUSER",
@@ -634,12 +586,13 @@
     "date_signed": "25 de febrero de 2019",
     "start_date": "",
     "end_date": "48 dias",
-    "amount": "83169.04",
+    "amount": 83169.04,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.509061,-68.1727886"
   },
   {
+    "number":36,
     "contract_id": "OBN-160/2019",
     "award_id": "19-1201-00-930972-1-1",
     "company_name": "GIO & KHIAINGENIERIA EN CONSTRUCCION Y CONSULTORIA LTDA",
@@ -650,12 +603,13 @@
     "date_signed": "27 de marzo de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "169939.10",
+    "amount": 169939.10,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5017103,-68.1124216"
   },
   {
+    "number":37,
     "contract_id": "OBN-157/2019",
     "award_id": "19-1201-00-930989-1-1",
     "company_name": "CONSTRUCCIONES ROXSOL S.R.L.",
@@ -666,12 +620,13 @@
     "date_signed": "27 de marzo de 2019",
     "start_date": "",
     "end_date": "45 dias",
-    "amount": "133024.97",
+    "amount": 133024.97,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4966978,-68.1093268"
   },
   {
+    "number":38,
     "contract_id": "OBN-168/2019",
     "award_id": "19-1201-00-930985-1-1",
     "company_name": "GOMEX IMPEX INGENIERIA",
@@ -682,12 +637,13 @@
     "date_signed": "27 de marzo de 2019",
     "start_date": "",
     "end_date": "50 dias",
-    "amount": "153242.21",
+    "amount": 153242.21,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5079388,-68.0933539"
   },
   {
+    "number":39,
     "contract_id": "OBN-155/2019",
     "award_id": "19-1201-00-930982-1-1",
     "company_name": "EDWIN JAVIER INGENIEROS S.R.L.",
@@ -698,12 +654,13 @@
     "date_signed": "27 de marzo de 2019",
     "start_date": "",
     "end_date": "45 dias",
-    "amount": "141223.19",
+    "amount": 141223.19,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4950023,-68.1038322"
   },
   {
+    "number":40,
     "contract_id": "OBN-158/2019",
     "award_id": "19-1201-00-930965-1-1",
     "company_name": "TORREZ CHOQUE LEOPOLDO TEODORO",
@@ -714,12 +671,13 @@
     "date_signed": "27 de marzo de 2019",
     "start_date": "",
     "end_date": "45 dias",
-    "amount": "106850.20",
+    "amount": 106850.20,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4245477,-67.8913412"
   },
   {
+    "number":41,
     "contract_id": "OBN-144/2019",
     "award_id": "19-1201-00-929589-1-1",
     "company_name": "CONSTRUCTORA LYON & LESANCH S.R.L.",
@@ -730,12 +688,13 @@
     "date_signed": "25 de marzo de 2019",
     "start_date": "",
     "end_date": "50 dias",
-    "amount": "126145.52",
+    "amount": 126145.52,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4235282,-67.8913497"
   },
   {
+    "number":42,
     "contract_id": "OBN-152/2019",
     "award_id": "19-1201-00-929585-1-1",
     "company_name": "PRANA",
@@ -746,12 +705,13 @@
     "date_signed": "25 de marzo de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "159196.98",
+    "amount": 159196.98,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5017103,-68.1124216"
   },
   {
+    "number":43,
     "contract_id": "OBN-125/2019",
     "award_id": "19-1201-00-929575-1-1",
     "company_name": "LUIS ARIEL QUISPE APAZA",
@@ -762,12 +722,13 @@
     "date_signed": "25 de marzo de 2019",
     "start_date": "",
     "end_date": "55 dias",
-    "amount": "137111.68",
+    "amount": 137111.68,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4989922,-68.1047483"
   },
   {
+    "number":44,
     "contract_id": "OBN-154/2019",
     "award_id": "19-1201-00-929566-1-1",
     "company_name": "EDWIN JAVIER INGENIEROS S.R.L.",
@@ -778,12 +739,13 @@
     "date_signed": "25 de marzo de 2019",
     "start_date": "",
     "end_date": "50 dias",
-    "amount": "136412.69",
+    "amount": 136412.69,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5017103,-68.1124216"
   },
   {
+    "number":45,
     "contract_id": "OBN-111/2019",
     "award_id": "19-1201-00-929549-1-1",
     "company_name": "TECNICA CONSTRUCTORA AUGUST S.R.L.",
@@ -794,12 +756,13 @@
     "date_signed": "25 de marzo de 2019",
     "start_date": "",
     "end_date": "33 dias",
-    "amount": "133963.78",
+    "amount": 133963.78,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": ""
   },
   {
+    "number":46,
     "contract_id": "QBN-162/2019",
     "award_id": "19-1201-00-929505-1-1",
     "company_name": "EMPRESA DE SERVICIOS MULTIDISCIPLINARAS J.B. ASOCIADOS S.R.L. ESMA S.R.L.",
@@ -810,12 +773,13 @@
     "date_signed": "25 de marzo de 2019",
     "start_date": "",
     "end_date": "55 dias",
-    "amount": "173251.50",
+    "amount": 173251.50,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": ""
   },
   {
+    "number":47,
     "contract_id": "OBN-161/2019",
     "award_id": "19-1201-00-929478-1-1",
     "company_name": "CONSTRUCTORA LYON & LESANCH S.R.L.",
@@ -826,12 +790,13 @@
     "date_signed": "25 de marzo de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "190702.51",
+    "amount": 190702.51,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5012077,-68.1126665"
   },
   {
+    "number":48,
     "contract_id": "OBN-165/2019",
     "award_id": "19-1201-00-929435-1-1",
     "company_name": "TRAYCON LTDA. EMPRESA CONSTRUCTORA",
@@ -842,12 +807,13 @@
     "date_signed": "25 de marzo de 2019",
     "start_date": "",
     "end_date": "40 dias",
-    "amount": "120550.94",
+    "amount": 120550.94,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4989922,-68.1047483"
   },
   {
+    "number":49,
     "contract_id": "OBN-79/2019",
     "award_id": "19-1201-00-927045-1-1",
     "company_name": "ISMAEL APAZA MAMANI",
@@ -858,12 +824,13 @@
     "date_signed": "19 de marzo de 2019",
     "start_date": "",
     "end_date": "40 dias",
-    "amount": "117635.97",
+    "amount": 117635.97,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5165546,-68.1486946"
   },
   {
+    "number":50,
     "contract_id": "OBN-138/2019",
     "award_id": "19-1201-00-927700-1-1",
     "company_name": "MACHA-CONST S.R.L.",
@@ -874,12 +841,13 @@
     "date_signed": "19 de marzo de 2019",
     "start_date": "",
     "end_date": "45 dias",
-    "amount": "125511.56",
+    "amount": 125511.56,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.505021,-68.0837034"
   },
   {
+    "number":51,
     "contract_id": "OBN-66/2019",
     "award_id": "19-1201-00-926891-1-1",
     "company_name": "COMPICAP S.R.L.",
@@ -890,12 +858,13 @@
     "date_signed": "13 de marzo de 2019",
     "start_date": "",
     "end_date": "45 dias",
-    "amount": "143858.93",
+    "amount": 143858.93,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5017103,-68.1124216"
   },
   {
+    "number":52,
     "contract_id": "OBN-100/2019",
     "award_id": "19-1201-00-926888-1-1",
     "company_name": "CCAPA. CONSTRUCCIONES CAPAJIQUE S.R.L.",
@@ -906,12 +875,13 @@
     "date_signed": "13 de marzo de 2019",
     "start_date": "",
     "end_date": "45 dias",
-    "amount": "162671.96",
+    "amount": 162671.96,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4896838,-68.0925723"
   },
   {
+    "number":53,
     "contract_id": "OBN-102/2019",
     "award_id": "19-1201-00-926883-1-1",
     "company_name": "GIO & KHIA INGENIERIA EN CONSTRUCCION Y CONSULTORIA LTDA.",
@@ -922,12 +892,13 @@
     "date_signed": "13 de marzo de 2019",
     "start_date": "",
     "end_date": "55 dias",
-    "amount": "144403.96",
+    "amount": 144403.96,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5064678,-68.1102743"
   },
   {
+    "number":54,
     "contract_id": "OBN-114/2019",
     "award_id": "19-1201-00-926878-1-1",
     "company_name": "EMPRESA CONSTRUCTORA NUREK S.R.L.",
@@ -938,12 +909,13 @@
     "date_signed": "13 de marzo de 2019",
     "start_date": "",
     "end_date": "32 dias",
-    "amount": "125180.74",
+    "amount": 125180.74,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5199412,-68.1190181"
   },
   {
+    "number":55,
     "contract_id": "OBN-80/2019",
     "award_id": "19-1201-00-926301-1-1",
     "company_name": "EMPRESA CONSTRUCTORA NUREK S.R.L.",
@@ -954,12 +926,13 @@
     "date_signed": "13 de marzo de 2019",
     "start_date": "",
     "end_date": "45 dias",
-    "amount": "117236.68",
+    "amount": 117236.68,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5049465,-68.1501635"
   },
   {
+    "number":56,
     "contract_id": "OBN-84/2019",
     "award_id": "19-1201-00-926305-1-1",
     "company_name": "EMPRESA CONSTRUCTORA NUREK S.R.L.",
@@ -970,12 +943,13 @@
     "date_signed": "13 de marzo de 2019",
     "start_date": "",
     "end_date": "50 dias",
-    "amount": "149209.50",
+    "amount": 149209.50,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5164459,-68.1449594"
   },
   {
+    "number":57,
     "contract_id": "OBN-97/2019",
     "award_id": "19-1201-00-925945-1-1",
     "company_name": "MACHA-CONST S.R.L.",
@@ -986,12 +960,13 @@
     "date_signed": "19 de marzo de 2019",
     "start_date": "",
     "end_date": "52 dias",
-    "amount": "91272",
+    "amount": 91272,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5394592,-68.0735319"
   },
   {
+    "number":58,
     "contract_id": "OBN-96/2019",
     "award_id": "19-1201-00-925688-1-1",
     "company_name": "CIPRIANO ZACARI ARUQUIPA",
@@ -1002,12 +977,13 @@
     "date_signed": "12 de marzo de 2019",
     "start_date": "",
     "end_date": "62 dias",
-    "amount": "145794.72",
+    "amount": 145794.72,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5318833,-68.0758768"
   },
   {
+    "number":59,
     "contract_id": "OBN-107/2019",
     "award_id": "19-1201-00-925948-1-1",
     "company_name": "MACHA-CONST S.R.L.",
@@ -1018,12 +994,13 @@
     "date_signed": "12 de marzo de 2019",
     "start_date": "",
     "end_date": "62 dias",
-    "amount": "91649.93",
+    "amount": 91649.93,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5318825,-68.0911978"
   },
   {
+    "number":60,
     "contract_id": "OBN-113/2019",
     "award_id": "19-1201-00-926001-1-1",
     "company_name": "EMPRESA CONSTRUCTORA MULTIDICIPLINARIA IMPROARC S.R.L.",
@@ -1034,12 +1011,13 @@
     "date_signed": "12 de marzo de 2019",
     "start_date": "",
     "end_date": "61 dias",
-    "amount": "124446.20",
+    "amount": 124446.20,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.508985,-68.0509571"
   },
   {
+    "number":61,
     "contract_id": "OBN-129/2019",
     "award_id": "19-1201-00-926002-1-1",
     "company_name": "CONSTRUCTORA AD+U",
@@ -1050,12 +1028,13 @@
     "date_signed": "12 de marzo de 2019",
     "start_date": "",
     "end_date": "61 dias",
-    "amount": "143109.03",
+    "amount": 143109.03,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5395428,-68.1439591"
   },
   {
+    "number":62,
     "contract_id": "OBN-130/2019",
     "award_id": "19-1201-00-926004-1-1",
     "company_name": "EMPRESA CONSTRUCTORA NUREK S.R.L.",
@@ -1066,12 +1045,13 @@
     "date_signed": "12 de marzo de 2019",
     "start_date": "",
     "end_date": "62 dias",
-    "amount": "150598.56",
+    "amount": 150598.56,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": ""
   },
   {
+    "number":63,
     "contract_id": "OBN-1/2019",
     "award_id": "19-1201-00-925864-0-E",
     "company_name": "CONSTRUKTURAL S.R.L.",
@@ -1082,12 +1062,13 @@
     "date_signed": "28 de enero de 2019",
     "start_date": "",
     "end_date": "90 dias",
-    "amount": "12489966.03",
+    "amount": 12489966.03,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.4898346,-68.1390953"
   },
   {
+    "number":64,
     "contract_id": "OBN-95/2019",
     "award_id": "19-1201-00-925507-1-1",
     "company_name": "CIPRIANO ZACARI ARUQUIPA",
@@ -1098,12 +1079,13 @@
     "date_signed": "11 de marzo de 2019",
     "start_date": "",
     "end_date": "50 dias",
-    "amount": "121893.30",
+    "amount": 121893.30,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5147998,-68.0596438"
   },
   {
+    "number":65,
     "contract_id": "OBN-94/2019",
     "award_id": "19-1201-00-925506-1-1",
     "company_name": "TECDIKON S.R.L.",
@@ -1114,12 +1096,13 @@
     "date_signed": "11 de marzo de 2019",
     "start_date": "",
     "end_date": "61 dias",
-    "amount": "137022.22",
+    "amount": 137022.22,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": "-16.5334059,-68.1065933"
   },
   {
+    "number":66,
     "contract_id": "OBN-91/2019",
     "award_id": "19-1201-00-925505-1-1",
     "company_name": "MACHA-CONST S.R.L.",
@@ -1136,6 +1119,7 @@
     "milestones": "-16.5251008,-68.0788744"
   },
   {
+    "number":67,
     "contract_id": "OBN-90/2019",
     "award_id": "19-1201-00-925504-1-1",
     "company_name": "CONSTRUCTORA COARITA",
@@ -1152,6 +1136,7 @@
     "milestones": "-16.4911639,-68.1377932"
   },
   {
+    "number":68,
     "contract_id": "OBN-89/2019",
     "award_id": "19-1201-00-925503-1-1",
     "company_name": "EMPRESA CONSTRUCTORA AJAX",
@@ -1168,6 +1153,7 @@
     "milestones": "-16.5079388,-68.0933539"
   },
   {
+    "number":69,
     "contract_id": "OBN-88/2019",
     "award_id": "19-1201-00-925502-1-1",
     "company_name": "CIPRIANO ZACARI ARUQUIPA",
@@ -1184,6 +1170,7 @@
     "milestones": "-16.5155777,-68.0866635"
   },
   {
+    "number":70,
     "contract_id": "OBN-86/2019",
     "award_id": "19-1201-00-925500-1-1",
     "company_name": "PRANA",
@@ -1200,6 +1187,7 @@
     "milestones": "-16.5155777,-68.0866635"
   },
   {
+    "number":71,
     "contract_id": "OBN-71/2019",
     "award_id": "19-1201-00-925499-1-1",
     "company_name": "EMPRESA CONSTRUCTORA AJAX",
@@ -1216,6 +1204,7 @@
     "milestones": "-16.5195427,-68.0992217"
   },
   {
+    "number":72,
     "contract_id": "OBN-70/2019",
     "award_id": "19-1201-00-925498-1-1",
     "company_name": "CONSTRULIM JR",
@@ -1232,6 +1221,7 @@
     "milestones": "-16.5114373,-68.0910028"
   },
   {
+    "number":73,
     "contract_id": "OBN -109/2019",
     "award_id": "19-1201-00-925359-1-1",
     "company_name": "MODULO CONSULTORES",
@@ -1248,6 +1238,7 @@
     "milestones": "-16.5500882,-68.0947971"
   },
   {
+    "number":74,
     "contract_id": "OBN-106/2019",
     "award_id": "19-1201-00-925351-1-1",
     "company_name": "CONSTLAE S .R .L .",
@@ -1264,6 +1255,7 @@
     "milestones": "-16.5017103,-68.1124216"
   },
   {
+    "number":75,
     "contract_id": "OBN -99/2019",
     "award_id": "19-1201-00-925350-1-1",
     "company_name": "INGEWORKS S.R.L. INGENIERIA Y CONSTRUCCION;",
@@ -1274,12 +1266,13 @@
     "date_signed": "06 de marzo de 2019",
     "start_date": "",
     "end_date": "60 dias",
-    "amount": "17275908",
+    "amount": 172759.08,
     "currency": "Bolivianos",
     "items_contracted": "",
     "milestones": ""
   },
   {
+    "number":76,
     "contract_id": "OBN-65/2019",
     "award_id": "19-1201-00-925347-1-1",
     "company_name": "CHUQUI DE CONSTRUCCIONES S.R.L.",
@@ -1296,6 +1289,7 @@
     "milestones": "-16.4911327,-68.1102819"
   },
   {
+    "number":77,
     "contract_id": "QBN-64/2019",
     "award_id": "19-1201-00-925344-1-1",
     "company_name": "CONSULTORA ELISEO VILLCA MOLINA S.R.L.",
@@ -1312,6 +1306,7 @@
     "milestones": ""
   },
   {
+    "number":78,
     "contract_id": "OBN-69/2019",
     "award_id": "19-1201-00-925281-1-1",
     "company_name": "CIPRIANO ZACARI ARUQUIPA",
@@ -1328,6 +1323,7 @@
     "milestones": "-16.4557338,-68.1520467"
   },
   {
+    "number":79,
     "contract_id": "OBN-68/2019",
     "award_id": "19-1201-00-925273-1-1",
     "company_name": "CONSTRUCTORA LYON & LESANCH S.R.L.",
@@ -1344,6 +1340,7 @@
     "milestones": "-16.5271573,-68.1074624"
   },
   {
+    "number":80,
     "contract_id": "OBN-67/2019",
     "award_id": "19-1201-00-925282-1-1",
     "company_name": "CIPRIANO ZACARI ARUQUIPA",
@@ -1360,6 +1357,7 @@
     "milestones": "-16.5299772,-68.0598622"
   },
   {
+    "number":81,
     "contract_id": "OBN-62/2019",
     "award_id": "19-1201-00-925271-1-1",
     "company_name": "EMPRESA CONSTRUCTORA NUREK S.R.L.",
@@ -1376,6 +1374,7 @@
     "milestones": "-16.5468754,-68.0881159"
   },
   {
+    "number":82,
     "contract_id": "OBN-61/2019",
     "award_id": "19-1201-00-925275-1-1",
     "company_name": "PRANA",
@@ -1392,6 +1391,7 @@
     "milestones": ""
   },
   {
+    "number":83,
     "contract_id": "OBN-47/2019",
     "award_id": "19-1201-00-925268-1-1",
     "company_name": "PRANA",
@@ -1408,6 +1408,7 @@
     "milestones": "-16.5135462,-68.0547131"
   },
   {
+    "number":84,
     "contract_id": "OBN-42/2019",
     "award_id": "19-1201-00-925278-1-1",
     "company_name": "EMPRESA CONSTRUCTORA NUREK S.R.L.",
@@ -1424,6 +1425,7 @@
     "milestones": "-16.5290449,-68.1283927"
   },
   {
+    "number":85,
     "contract_id": "OBN -35/2019",
     "award_id": "19-1201-00-924341-1-1",
     "company_name": "EMPRESA CONSTRUCTORA AJAX",
@@ -1440,6 +1442,7 @@
     "milestones": "-16.5446151,-68.0787473"
   },
   {
+    "number":86,
     "contract_id": "OBN -33/2019",
     "award_id": "19-1201-00-924339-1-1",
     "company_name": "CIPRIANO ZACARI ARUQUIPA",
@@ -1456,6 +1459,7 @@
     "milestones": "-16.5296277,-68.1051064"
   },
   {
+    "number":87,
     "contract_id": "OBN -28/2019",
     "award_id": "19-1201-00-925276-1-1",
     "company_name": "ANDRA",
@@ -1472,6 +1476,7 @@
     "milestones": "-16.495541,-68.1248673"
   },
   {
+    "number":88,
     "contract_id": "OBN -29/2019",
     "award_id": "19-1201-00-924333-1-1",
     "company_name": "CONSTRUCTORA FRANSMAR",
@@ -1488,6 +1493,7 @@
     "milestones": "-16.5266894,-68.142198"
   },
   {
+    "number":89,
     "contract_id": "OBN-43/2019",
     "award_id": "19-1201-00-924346-1-1",
     "company_name": "EMPRESA CONSTRUCTORA AJAX",
@@ -1504,6 +1510,7 @@
     "milestones": "-16.5405556,-68.103022"
   },
   {
+    "number":90,
     "contract_id": "OBN-37/2019",
     "award_id": "19-1201-00-924345-1-1",
     "company_name": "EMPRESA CONSTRUCTORA AJAX",
@@ -1520,6 +1527,7 @@
     "milestones": "-16.5135462,-68.0547131"
   },
   {
+    "number":91,
     "contract_id": "OBN-34/2019",
     "award_id": "19-1201-00-924340-1-1",
     "company_name": "TECNICA CONSTRUCTORA AUGUST S.R.L.",
@@ -1536,6 +1544,7 @@
     "milestones": "-16.5275417,-68.1179491"
   },
   {
+    "number":92,
     "contract_id": "OBN-32/2019",
     "award_id": "19-1201-00-924336-1-1",
     "company_name": "LUIS ARIEL QUISPE APAZA",
@@ -1552,6 +1561,7 @@
     "milestones": "-16.5199282,-68.0832739"
   },
   {
+    "number":93,
     "contract_id": "OBN-30/2019",
     "award_id": "19-1201-00-924334-1-1",
     "company_name": "ANDRA",
@@ -1568,6 +1578,7 @@
     "milestones": "-16.5393939,-68.0539942"
   },
   {
+    "number":94,
     "contract_id": "OBN-27/2019",
     "award_id": "19-1201-00-924332-1-1",
     "company_name": "EMPRESA CONSTRUCTORA AJAX",
@@ -1584,6 +1595,7 @@
     "milestones": "-16.5393939,-68.0539942"
   },
   {
+    "number":95,
     "contract_id": "OBN-40/2019",
     "award_id": "19-1201-00-923837-1-1",
     "company_name": "APAZA MAMANI ISMAEL",
@@ -1600,6 +1612,7 @@
     "milestones": "-16.4930537,-68.1210398"
   },
   {
+    "number":96,
     "contract_id": "QBN-26/2019",
     "award_id": "19-1201-00-923830-1-1",
     "company_name": "CONSTLAE S.R.L.",
@@ -1616,6 +1629,7 @@
     "milestones": "-16.509576,-68.1155557"
   },
   {
+    "number":97,
     "contract_id": "QBN-25/2019",
     "award_id": "19-1201-00-923829-1-1",
     "company_name": "COMACTCONSTRUCCIONES MAMANI QUISPE” S.R.L.",
@@ -1632,6 +1646,7 @@
     "milestones": "-16.491081,-68.1188473"
   },
   {
+    "number":98,
     "contract_id": "QBN-20/2019",
     "award_id": "19-1201-00-922661-1-2",
     "company_name": "CONSTRUCTORA ISTREL S.R.L.",
@@ -1648,6 +1663,7 @@
     "milestones": "-16.521777,-68.116941"
   },
   {
+    "number":99,
     "contract_id": "QBN-19/2019",
     "award_id": "19-1201-00-922639-1-2",
     "company_name": "EMPRESA CONSTRUCTORA NUREK S.R.L.",
@@ -1664,6 +1680,7 @@
     "milestones": "-16.4911639,-68.1377932"
   },
   {
+    "number":100,
     "contract_id": "QBN-18/2019",
     "award_id": "19-1201-00-922684-1-1",
     "company_name": "CONSTRUCTORA SOLCONCIV S.R.L.",
@@ -1680,6 +1697,7 @@
     "milestones": "-16.5308804,-68.0962161"
   },
   {
+    "number":101,
     "contract_id": "QBN-16/2019",
     "award_id": "19-1201-00-922676-1-1",
     "company_name": "EMPRESA CONSTRUCTORA ARSENAL S.R.L.;",
@@ -1696,6 +1714,7 @@
     "milestones": "-16.4718456,-68.1254947"
   },
   {
+    "number":102,
     "contract_id": "QBN-15/2019",
     "award_id": "19-1201-00-922660-1-1",
     "company_name": "EMPRESA CONSTRUCTORA ARSENAL S.R.L.",
@@ -1712,6 +1731,7 @@
     "milestones": "-16.5103059,-68.0994348"
   },
   {
+    "number":103,
     "contract_id": "QBN-12/2019",
     "award_id": "19-1201-00-922114-1-1",
     "company_name": "EMPRESA CONSTRUCTORA “ RUBEN Q.Z.” S.R.L.",
@@ -1728,6 +1748,7 @@
     "milestones": "-16.4922724,-68.1189481"
   },
   {
+    "number":104,
     "contract_id": "QBN-10/2019",
     "award_id": "19-1201-00-922102-1-1",
     "company_name": "INGEWORKS S.R.L. INGENIERIA Y CONSTRUCCION",
@@ -1744,6 +1765,7 @@
     "milestones": "-16.494922,-68.1059513"
   },
   {
+    "number":105,
     "contract_id": "QBN-8/2019",
     "award_id": "19-1201-00-922088-1-1",
     "company_name": "EMPRESA CONSTRUCTORA ARSENAL S.R.L.",
@@ -1760,6 +1782,7 @@
     "milestones": ""
   },
   {
+    "number":106,
     "contract_id": "QBN-7/2019",
     "award_id": "19-1201-00-922070-1-1",
     "company_name": "EMPRESA CONSTRUCTORA ARSENAL S.R.L.",
@@ -1776,6 +1799,7 @@
     "milestones": "-16.4857651,-68.0970255"
   },
   {
+    "number":107,
     "contract_id": "QBN-14/2019",
     "award_id": "19-1201-00-921975-1-1",
     "company_name": "LUIS ARIEL QUISPE APAZA",
@@ -1792,6 +1816,7 @@
     "milestones": "-16.4963461,-68.1588888"
   },
   {
+    "number":108,
     "contract_id": "QBN-13/2019",
     "award_id": "19-1201-00-921974-1-1",
     "company_name": "EDWIN JAVIER INGENIEROS S.R.L.",
@@ -1808,6 +1833,7 @@
     "milestones": "-16.4753578,-68.1197682"
   },
   {
+    "number":109,
     "contract_id": "QBN-11/2019",
     "award_id": "19-1201-00-921972-1-1",
     "company_name": "CONHEVI S.R.L.",
@@ -1824,6 +1850,7 @@
     "milestones": "-16.4995695,-68.1101573"
   },
   {
+    "number":110,
     "contract_id": "QBN-9/2019",
     "award_id": "19-1201-00-921971-1-1",
     "company_name": "EDWIN JAVIER INGENIEROS S.R.L.",
@@ -1840,6 +1867,7 @@
     "milestones": ""
   },
   {
+    "number":111,
     "contract_id": "QBN-6/2019",
     "award_id": "19-1201-00-921966-1-1",
     "company_name": "ASOCIACION ACCIDENTAL “ WILMAP ASOCIADOS”",
@@ -1856,6 +1884,7 @@
     "milestones": "-16.4792431,-68.0988791"
   },
   {
+    "number":112,
     "contract_id": "QBN-629/2018",
     "award_id": "19-1201-00-882760-2-1",
     "company_name": "EMPRESA CONSTRUCTORA EL CEIBO S.R.L.",
@@ -1872,6 +1901,7 @@
     "milestones": "-16.5097047,-68.1287321"
   },
   {
+    "number":113,
     "contract_id": "QBN-5/2019",
     "award_id": "19-1201-00-918285-1-1",
     "company_name": "COMPICAP S.R.L.",
@@ -1888,6 +1918,7 @@
     "milestones": "-16.4981417,-68.0977849"
   },
   {
+    "number":114,
     "contract_id": "QBN-1/2019",
     "award_id": "19-1201-00-918161-1-1",
     "company_name": "CONSTRUCTORA ISTREL S.R.L.",
@@ -1904,6 +1935,7 @@
     "milestones": "-16.5130859,-68.1086818"
   },
   {
+    "number":115,
     "contract_id": "QBN-3/2019",
     "award_id": "19-1201-00-918157-1-1",
     "company_name": "EDWIN JAVIER INGENIEROS S.R.L.",
