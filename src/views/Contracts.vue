@@ -107,9 +107,9 @@
     <b-row>
       <b-col cols="12">
         <div class="text-center">
-          <b-button class="mr-1" href="https://www.google.com">.xls</b-button>
-          <b-button class="mr-1" href="https://www.google.com">.pdf</b-button>
-          <b-button class="mr-1" href="https://www.google.com">.csv</b-button>
+          <b-button class="mr-1" href="https://jukumariadvice.github.io/docs/data.xlsx">.xls</b-button>
+          <b-button class="mr-1" href="https://jukumariadvice.github.io/docs/data.pdf">.pdf</b-button>
+          <b-button class="mr-1" href="https://jukumariadvice.github.io/docs/data.csv">.csv</b-button>
         </div>
       </b-col>
     </b-row>
