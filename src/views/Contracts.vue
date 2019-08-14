@@ -344,7 +344,7 @@ export default {
         attribution:
           '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
 
-        zoom: 10,
+        zoom: 14,
         center: [-16.4957409, -68.1356726],
         /*center: [47.41322, -1.219482],*/
         markerLatLng: [47.31322, -1.319482],
